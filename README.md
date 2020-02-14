@@ -4,7 +4,7 @@ Get perfect shadows every time for the non-designer.
 
 #Installation
 
-`npm i shadowizardtest --save`
+`npm i shadowizardtesting --save`
 
 Then...
 
