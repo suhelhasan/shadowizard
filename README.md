@@ -9,7 +9,7 @@ Get perfect shadows every time for the non-designer.
 Then...
 
 ```
-import {shadowizardtest} from 'shadowizardtest';
+import {shadowizardtest} from 'shadowizardtesting';
 
 shadowizardtest({
     shadow_type:'soft';
