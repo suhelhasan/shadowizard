@@ -16,6 +16,11 @@ shadowizardtest({
     padding:false
 });
 ```
+
+Then....
+Add add css class `shadowizard` to html `class="shadowizard"`
+
+
 ## Options
 
 Shadowizardtest supports 2 options, both of which are optional:
