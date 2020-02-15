@@ -7,6 +7,7 @@ Get perfect shadows every time for the non-designer.
 `npm i shadowizardtesting --save`
 
 Then...
+In your JS file include this code 
 
 ```
 import {shadowizardtest} from 'shadowizardtesting';
