@@ -18,7 +18,10 @@ shadowizardtest({
 ```
 
 Then....
-Add add css class `shadowizard` to html `class="shadowizard"`
+
+Add add css class `shadowizard` to html:
+
+`<img src="" class="shadowizard" >`
 
 
 ## Options
