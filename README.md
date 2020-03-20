@@ -2,6 +2,8 @@
 
 Get perfect shadows every time for the non-designer.
 
+# [NPM PACKAGE](https://www.npmjs.com/package/shadowizardtesting)
+
 #Installation
 
 `npm i shadowizardtesting --save`
